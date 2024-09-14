@@ -1,5 +1,7 @@
 # Hi there, I'm Tanvi ! 👋
 
+[![](https://visitcount.itsvg.in/api?id=tanviway48&icon=4&color=10)](https://visitcount.itsvg.in)
+
 ## 🚀 About Me
 Welcome to my GitHub! I’m a passionate Engineering Student with a love for Web Devlopement and AI technologies. I’m always excited about building cool things, learning new technologies, and solving problems that can make a difference.
 
@@ -69,7 +71,7 @@ Feel free to reach out to me for collaborations, freelancing, or just a friendly
 ![](https://github-contributor-stats.vercel.app/api?username=tanviway48&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanviway48&icon=4&color=10)](https://visitcount.itsvg.in)
+
 
 
 
